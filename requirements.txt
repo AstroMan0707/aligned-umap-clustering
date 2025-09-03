@@ -54,6 +54,7 @@ partd==1.4.2
 pexpect==4.9.0
 pillow==11.3.0
 platformdirs==4.4.0
+plotly==6.3.0
 prompt_toolkit==3.0.52
 psutil==7.0.0
 ptyprocess==0.7.0
