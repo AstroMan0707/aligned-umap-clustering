@@ -1,8 +1,8 @@
 # Ignore Python virtual environment
 venv/
 .venv/
-my-env/
-.my-env/
+my_env/
+.my_env/
 my_env3.12/
 .my_env3.12/
 
